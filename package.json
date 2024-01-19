@@ -1,0 +1,23 @@
+{
+  "name": "react_practice",
+  "version": "1.0.0",
+  "description": "This is a  practice project",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PandeyRajnish/play-with-react.git"
+  },
+  "keywords": [],
+  "author": "Rajnish Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PandeyRajnish/play-with-react/issues"
+  },
+  "homepage": "https://github.com/PandeyRajnish/play-with-react#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
